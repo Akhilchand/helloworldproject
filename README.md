@@ -1,2 +1,2 @@
 # helloworldproject
-Display Hello "  " as per your requirement
+Edit views.py to display Hello "  " as per your requirement
